@@ -4,7 +4,7 @@
 
 <b>step 1 =></b> npm i discord.js-selfbot
 
-<b>step 2 =></b> put your token in ""
+<b>step 2 =></b> put your token in line 4
 
 <hr>
 <i>The user is responsible for any use of the Discord-Selfbot</i>
