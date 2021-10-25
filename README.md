@@ -6,5 +6,6 @@
 
 <b>step 2 =></b> put your token in ""
 
-
-<i>The user is responsible for any use of the robot's predecessor</i>
+<hr>
+<i>The user is responsible for any use of the Discord-Selfbot</i>
+<hr>
